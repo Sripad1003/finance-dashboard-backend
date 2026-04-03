@@ -2,6 +2,12 @@
 
 A RESTful backend API for a finance dashboard system with role-based access control, financial records management, and analytics.
 
+## 🚀 Live Demo
+
+The API is deployed and live on Render: **[Live Demo URL](https://finance-dashboard-backend-h601.onrender.com)**
+
+*(Note: The database is pre-seeded with sample data. Since this is on a free tier, the first request may take a few seconds to wake the server up.)*
+
 ## Tech Stack
 
 - **Runtime**: Node.js
